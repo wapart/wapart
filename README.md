@@ -1,2 +1,8 @@
    # welcome
-   ![baidu](https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/a044ad345982b2b76cbfbd2133adcbef76099b37.jpg)
+   I am new here.
+   Steph is one of the best of the best. oh yeah!
++  ![baidu](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3016531275,681023307&amp;fm=26&amp;gp=0.jpg)
++  | player   |num  | pos  |
++  | :------- | --: | :--: |
++  | curry    |30   | pg   |
++  | thompson|11    | sg   | 
